@@ -3,8 +3,8 @@
 
 <svg
    width="94.720833mm"
-   height="52.387497mm"
-   viewBox="0 0 94.720831 52.387495"
+   height="46.831249mm"
+   viewBox="0 0 94.720831 46.831247"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
@@ -29,8 +29,8 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="0.64052329"
-     inkscape:cx="100.69891"
-     inkscape:cy="275.55594"
+     inkscape:cx="21.076517"
+     inkscape:cy="216.22945"
      inkscape:window-width="1284"
      inkscape:window-height="970"
      inkscape:window-x="298"
@@ -6910,499 +6910,674 @@
          d="m 0,176 h 29.333334 v 20 H 0 Z"
          id="path14637" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17205">
+      <path
+         d="M -2,-2 H 358 V 177 H -2 Z"
+         id="path17203" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17419">
+      <path
+         d="M -2,-2 H 358 V 177 H -2 Z"
+         id="path17417" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17425">
+      <path
+         d="m 193.10527,0 h 39.78947 v 28 h -39.78947 z"
+         id="path17423" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17439">
+      <path
+         d="M -2,-2 H 358 V 177 H -2 Z"
+         id="path17437" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17449">
+      <path
+         d="M -2,-2 H 358 V 177 H -2 Z"
+         id="path17447" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17455">
+      <path
+         d="m 234.10527,0 h 39.78947 v 28 h -39.78947 z"
+         id="path17453" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17469">
+      <path
+         d="M -2,-2 H 358 V 177 H -2 Z"
+         id="path17467" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17479">
+      <path
+         d="M -2,-2 H 358 V 177 H -2 Z"
+         id="path17477" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17485">
+      <path
+         d="M 275.10526,0 H 314.8947 V 28 H 275.10526 Z"
+         id="path17483" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17499">
+      <path
+         d="M -2,-2 H 358 V 177 H -2 Z"
+         id="path17497" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17509">
+      <path
+         d="M -2,-2 H 358 V 177 H -2 Z"
+         id="path17507" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17515">
+      <path
+         d="M 316.10526,0 H 355.8947 V 28 H 316.10526 Z"
+         id="path17513" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17529">
+      <path
+         d="M -2,-2 H 358 V 177 H -2 Z"
+         id="path17527" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17539">
+      <path
+         d="M -2,-2 H 358 V 177 H -2 Z"
+         id="path17537" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17545">
+      <path
+         d="M 0,29 H 30 V 49 H 0 Z"
+         id="path17543" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17559">
+      <path
+         d="M -2,-2 H 358 V 177 H -2 Z"
+         id="path17557" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17569">
+      <path
+         d="M -2,-2 H 358 V 177 H -2 Z"
+         id="path17567" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17575">
+      <path
+         d="M 0,50 H 30 V 70 H 0 Z"
+         id="path17573" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17589">
+      <path
+         d="M -2,-2 H 358 V 177 H -2 Z"
+         id="path17587" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17599">
+      <path
+         d="M -2,-2 H 358 V 177 H -2 Z"
+         id="path17597" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17605">
+      <path
+         d="M 0,71 H 30 V 91 H 0 Z"
+         id="path17603" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17619">
+      <path
+         d="M -2,-2 H 358 V 177 H -2 Z"
+         id="path17617" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17629">
+      <path
+         d="M -2,-2 H 358 V 177 H -2 Z"
+         id="path17627" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17635">
+      <path
+         d="m 0,92 h 29.333334 v 20 H 0 Z"
+         id="path17633" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17649">
+      <path
+         d="M -2,-2 H 358 V 177 H -2 Z"
+         id="path17647" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17659">
+      <path
+         d="M -2,-2 H 358 V 177 H -2 Z"
+         id="path17657" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17665">
+      <path
+         d="m 0,113 h 30 v 20 H 0 Z"
+         id="path17663" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17679">
+      <path
+         d="M -2,-2 H 358 V 177 H -2 Z"
+         id="path17677" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17689">
+      <path
+         d="M -2,-2 H 358 V 177 H -2 Z"
+         id="path17687" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17695">
+      <path
+         d="m 0,134 h 30 v 20 H 0 Z"
+         id="path17693" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17709">
+      <path
+         d="M -2,-2 H 358 V 177 H -2 Z"
+         id="path17707" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17719">
+      <path
+         d="M -2,-2 H 358 V 177 H -2 Z"
+         id="path17717" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17725">
+      <path
+         d="m 0,155 h 29.333334 v 20 H 0 Z"
+         id="path17723" />
+    </clipPath>
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(183.00325,-78.964297)">
+     transform="translate(161.79343,-94.790675)">
     <g
-       id="g14053"
-       transform="matrix(0.35277777,0,0,0.35277777,-240.59422,60.178881)">
+       id="g17197"
+       transform="matrix(0.35277777,0,0,0.35277777,-219.3844,76.005259)">
       <g
-         id="g14055"
+         id="g17199"
          transform="matrix(0.75,0,0,0.75,164,54)">
         <g
-           id="g14057"
-           clip-path="url(#clipPath14061)">
+           id="g17201"
+           clip-path="url(#clipPath17205)">
           <path
              d="M -1,-1 H 357 V 29 H -1 Z"
              style="fill:#2b211a;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path14063" />
+             id="path17207" />
           <path
-             d="M -1,28 H 193 V 197 H -1 Z"
+             d="M -1,28 H 193 V 176 H -1 Z"
              style="fill:#2b211a;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path14065" />
+             id="path17209" />
           <path
              d="m 192,28 h 42 v 22 h -42 z"
              style="fill:#997f7f;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path14067" />
+             id="path17211" />
           <path
              d="m 233,28 h 42 v 22 h -42 z"
              style="fill:#38761d;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path14069" />
+             id="path17213" />
           <path
              d="m 274,28 h 42 v 22 h -42 z"
              style="fill:#991919;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path14071" />
+             id="path17215" />
           <path
              d="m 315,28 h 42 v 22 h -42 z"
              style="fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path14073" />
+             id="path17217" />
           <path
              d="m 192,49 h 42 v 22 h -42 z"
              style="fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path14075" />
+             id="path17219" />
           <path
              d="m 233,49 h 42 v 22 h -42 z"
              style="fill:#899485;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path14077" />
+             id="path17221" />
           <path
              d="m 274,49 h 42 v 22 h -42 z"
              style="fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path14079" />
+             id="path17223" />
           <path
              d="m 315,49 h 42 v 22 h -42 z"
              style="fill:#997f7f;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path14081" />
+             id="path17225" />
           <path
              d="m 192,70 h 42 v 22 h -42 z"
              style="fill:#997f7f;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path14083" />
+             id="path17227" />
           <path
              d="m 233,70 h 42 v 22 h -42 z"
              style="fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path14085" />
+             id="path17229" />
           <path
              d="m 274,70 h 42 v 22 h -42 z"
              style="fill:#993333;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path14087" />
+             id="path17231" />
           <path
              d="m 315,70 h 42 v 22 h -42 z"
              style="fill:#497c32;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path14089" />
+             id="path17233" />
           <path
              d="m 192,91 h 42 v 22 h -42 z"
-             style="fill:#990000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path14091" />
+             style="fill:#991919;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path17235" />
           <path
              d="m 233,91 h 42 v 22 h -42 z"
-             style="fill:#497c32;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path14093" />
+             style="fill:#38761d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path17237" />
           <path
              d="m 274,91 h 42 v 22 h -42 z"
-             style="fill:#899485;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path14095" />
+             style="fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path17239" />
           <path
              d="m 315,91 h 42 v 22 h -42 z"
-             style="fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path14097" />
+             style="fill:#997f7f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path17241" />
           <path
              d="m 192,112 h 42 v 22 h -42 z"
-             style="fill:#991919;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path14099" />
+             style="fill:#997f7f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path17243" />
           <path
-             d="m 233,112 h 42 v 22 h -42 z"
-             style="fill:#38761d;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path14101" />
-          <path
-             d="m 274,112 h 42 v 22 h -42 z"
-             style="fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path14103" />
+             d="m 233,112 h 83 v 22 h -83 z"
+             style="fill:#899485;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path17245" />
           <path
              d="m 315,112 h 42 v 22 h -42 z"
              style="fill:#997f7f;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path14105" />
+             id="path17247" />
           <path
              d="m 192,133 h 42 v 22 h -42 z"
-             style="fill:#997f7f;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path14107" />
+             style="fill:#990000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path17249" />
           <path
-             d="m 233,133 h 83 v 22 h -83 z"
-             style="fill:#899485;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path14109" />
+             d="m 233,133 h 42 v 22 h -42 z"
+             style="fill:#497c32;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path17251" />
+          <path
+             d="m 274,133 h 42 v 22 h -42 z"
+             style="fill:#993333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path17253" />
           <path
              d="m 315,133 h 42 v 22 h -42 z"
-             style="fill:#997f7f;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path14111" />
+             style="fill:#497c32;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path17255" />
           <path
              d="m 192,154 h 42 v 22 h -42 z"
-             style="fill:#990000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path14113" />
+             style="fill:#997f7f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path17257" />
           <path
              d="m 233,154 h 42 v 22 h -42 z"
-             style="fill:#497c32;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path14115" />
+             style="fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path17259" />
           <path
              d="m 274,154 h 42 v 22 h -42 z"
              style="fill:#993333;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path14117" />
+             id="path17261" />
           <path
              d="m 315,154 h 42 v 22 h -42 z"
              style="fill:#497c32;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path14119" />
-          <path
-             d="m 192,175 h 42 v 22 h -42 z"
-             style="fill:#997f7f;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path14121" />
-          <path
-             d="m 233,175 h 42 v 22 h -42 z"
-             style="fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path14123" />
-          <path
-             d="m 274,175 h 42 v 22 h -42 z"
-             style="fill:#993333;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path14125" />
-          <path
-             d="m 315,175 h 42 v 22 h -42 z"
-             style="fill:#497c32;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path14127" />
+             id="path17263" />
           <g
-             id="g14129">
+             id="g17265">
             <path
-               d="M 31,0 V 0 28 H 30 V 0 Z m 0,29 v 0 20 H 30 V 29 Z m 0,21 v 0 20 H 30 V 50 Z m 0,21 v 0 20 H 30 V 71 Z m 0,21 v 0 20 H 30 V 92 Z m 0,21 v 0 20 h -1 v -20 z m 0,21 v 0 20 h -1 v -20 z m 0,21 v 0 20 h -1 v -20 z m 0,21 v 0 20 h -1 v -20 z"
+               d="M 31,0 V 0 28 H 30 V 0 Z m 0,29 v 0 20 H 30 V 29 Z m 0,21 v 0 20 H 30 V 50 Z m 0,21 v 0 20 H 30 V 71 Z m 0,21 v 0 20 H 30 V 92 Z m 0,21 v 0 20 h -1 v -20 z m 0,21 v 0 20 h -1 v -20 z m 0,21 v 0 20 h -1 v -20 z"
                style="fill:#000000;fill-opacity:0.14902;fill-rule:nonzero;stroke:none"
-               id="path14131" />
+               id="path17267" />
           </g>
           <path
-             d="m -0.5,-1 v 198 m 193,-198 v 198 m 41,-198 v 198 m 41,-198 v 198 m 41,-198 V 197 M -1,-0.5 h 358 m -358,29 h 358 m -358,21 h 358 m -358,21 h 358 m -358,21 h 358 m -358,21 h 358 m -358,21 h 358 m -358,21 h 358 m -358,21 h 358 m -358,21 H 357 M 356.5,-1 v 198"
+             d="m -0.5,-1 v 177 m 193,-177 v 177 m 41,-177 v 177 m 41,-177 v 177 m 41,-177 V 176 M -1,-0.5 h 358 m -358,29 h 358 m -358,21 h 358 m -358,21 h 358 m -358,21 h 358 m -358,21 h 358 m -358,21 h 358 m -358,21 h 358 m -358,21 H 357 M 356.5,-1 v 177"
              style="fill:none;stroke:#cfab6d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-             id="path14133" />
+             id="path17269" />
           <text
              transform="translate(34,44.245117)"
              style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text14137"><tspan
+             id="text17273"><tspan
                x="0 8.658 15.886 23.114 30.341999 33.228001"
                y="0"
                sodipodi:role="line"
-               id="tspan14135">Angola</tspan></text>
+               id="tspan17271">Angola</tspan></text>
           <text
              transform="translate(201,44.245117)"
              style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text14141"><tspan
+             id="text17277"><tspan
                x="0 4.329 11.557"
                y="0"
                sodipodi:role="line"
-               id="tspan14139">-1%</tspan></text>
+               id="tspan17275">-1%</tspan></text>
           <text
              transform="translate(240,44.245117)"
              style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text14145"><tspan
+             id="text17281"><tspan
                x="0 7.579 14.807"
                y="0"
                sodipodi:role="line"
-               id="tspan14143">+6%</tspan></text>
+               id="tspan17279">+6%</tspan></text>
           <text
              transform="translate(283,44.245117)"
              style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text14149"><tspan
+             id="text17285"><tspan
                x="0 4.329 11.557"
                y="0"
                sodipodi:role="line"
-               id="tspan14147">-5%</tspan></text>
+               id="tspan17283">-5%</tspan></text>
           <text
              transform="translate(322,44.245117)"
              style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text14153"><tspan
+             id="text17289"><tspan
                x="0 7.579 14.807"
                y="0"
                sodipodi:role="line"
-               id="tspan14151">+0%</tspan></text>
+               id="tspan17287">+0%</tspan></text>
           <text
              transform="translate(34,65.24512)"
              style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text14157"><tspan
+             id="text17293"><tspan
                x="0 9.3859997 16.614 19.5 26.728001 33.956001 36.841999 44.07 46.956001 50.556999 59.215 70.043999 77.272003 80.157997 84.487 91.714996 95.316002 102.544 106.145 109.746 117.676 122.005 129.233 136.461 142.961"
                y="0"
                sodipodi:role="line"
-               id="tspan14155">Colonial Empire of France</tspan></text>
+               id="tspan17291">Colonial Empire of France</tspan></text>
           <text
              transform="translate(199,65.24512)"
              style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text14161"><tspan
+             id="text17297"><tspan
                x="0 7.579 14.807"
                y="0"
                sodipodi:role="line"
-               id="tspan14159">+0%</tspan></text>
+               id="tspan17295">+0%</tspan></text>
           <text
              transform="translate(240,65.24512)"
              style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text14165"><tspan
+             id="text17301"><tspan
                x="0 7.579 14.807"
                y="0"
                sodipodi:role="line"
-               id="tspan14163">+1%</tspan></text>
+               id="tspan17299">+1%</tspan></text>
           <text
              transform="translate(281,65.24512)"
              style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text14169"><tspan
+             id="text17305"><tspan
                x="0 7.579 14.807"
                y="0"
                sodipodi:role="line"
-               id="tspan14167">+0%</tspan></text>
+               id="tspan17303">+0%</tspan></text>
           <text
              transform="translate(324,65.24512)"
              style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text14173"><tspan
+             id="text17309"><tspan
                x="0 4.329 11.557"
                y="0"
                sodipodi:role="line"
-               id="tspan14171">-1%</tspan></text>
+               id="tspan17307">-1%</tspan></text>
           <text
              transform="translate(34,86.24512)"
              style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text14177"><tspan
+             id="text17313"><tspan
                x="0 9.3859997 16.614 20.215 26.715 33.943001 37.310001 44.758999 49.088001 56.316002 63.543999 66.43 73.657997 80.886002 84.487 93.873001 101.101 111.93 119.158 126.386 133.614"
                y="0"
                sodipodi:role="line"
-               id="tspan14175">Dutch Trading Company</tspan></text>
+               id="tspan17311">Dutch Trading Company</tspan></text>
           <text
              transform="translate(201,86.24512)"
              style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text14181"><tspan
+             id="text17317"><tspan
                x="0 4.329 11.557"
                y="0"
                sodipodi:role="line"
-               id="tspan14179">-1%</tspan></text>
+               id="tspan17315">-1%</tspan></text>
           <text
              transform="translate(240,86.24512)"
              style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text14185"><tspan
+             id="text17321"><tspan
                x="0 7.579 14.807"
                y="0"
                sodipodi:role="line"
-               id="tspan14183">+0%</tspan></text>
+               id="tspan17319">+0%</tspan></text>
           <text
              transform="translate(283,86.24512)"
              style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text14189"><tspan
+             id="text17325"><tspan
                x="0 4.329 11.557"
                y="0"
                sodipodi:role="line"
-               id="tspan14187">-4%</tspan></text>
+               id="tspan17323">-4%</tspan></text>
           <text
              transform="translate(322,86.24512)"
              style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text14193"><tspan
+             id="text17329"><tspan
                x="0 7.579 14.807"
                y="0"
                sodipodi:role="line"
-               id="tspan14191">+5%</tspan></text>
+               id="tspan17327">+5%</tspan></text>
           <text
              transform="translate(34,107.24512)"
              style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text14197"><tspan
-               x="0 8.658 15.886 22.386 29.614"
-               y="0"
-               sodipodi:role="line"
-               id="tspan14195">Egypt</tspan></text>
-          <text
-             transform="translate(201,107.24512)"
-             style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text14201"><tspan
-               x="0 4.329 11.557"
-               y="0"
-               sodipodi:role="line"
-               id="tspan14199">-6%</tspan></text>
-          <text
-             transform="translate(240,107.24512)"
-             style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text14205"><tspan
-               x="0 7.579 14.807"
-               y="0"
-               sodipodi:role="line"
-               id="tspan14203">+5%</tspan></text>
-          <text
-             transform="translate(281,107.24512)"
-             style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text14209"><tspan
-               x="0 7.579 14.807"
-               y="0"
-               sodipodi:role="line"
-               id="tspan14207">+1%</tspan></text>
-          <text
-             transform="translate(322,107.24512)"
-             style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text14213"><tspan
-               x="0 7.579 14.807"
-               y="0"
-               sodipodi:role="line"
-               id="tspan14211">+0%</tspan></text>
-          <text
-             transform="translate(34,128.24512)"
-             style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text14217"><tspan
+             id="text17333"><tspan
                x="0 10.101 14.43 21.658001 28.886 32.487 36.088001 44.745998 49.075001 51.960999 55.562 62.790001 65.676003"
                y="0"
                sodipodi:role="line"
-               id="tspan14215">Great Britain</tspan></text>
+               id="tspan17331">Great Britain</tspan></text>
           <text
-             transform="translate(201,128.24512)"
+             transform="translate(201,107.24512)"
              style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text14221"><tspan
+             id="text17337"><tspan
                x="0 4.329 11.557"
                y="0"
                sodipodi:role="line"
-               id="tspan14219">-5%</tspan></text>
+               id="tspan17335">-5%</tspan></text>
           <text
-             transform="translate(240,128.24512)"
+             transform="translate(240,107.24512)"
              style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text14225"><tspan
+             id="text17341"><tspan
                x="0 7.579 14.807"
                y="0"
                sodipodi:role="line"
-               id="tspan14223">+6%</tspan></text>
+               id="tspan17339">+6%</tspan></text>
           <text
-             transform="translate(281,128.24512)"
+             transform="translate(281,107.24512)"
              style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text14229"><tspan
+             id="text17345"><tspan
                x="0 7.579 14.807"
                y="0"
                sodipodi:role="line"
-               id="tspan14227">+0%</tspan></text>
+               id="tspan17343">+0%</tspan></text>
           <text
-             transform="translate(324,128.24512)"
+             transform="translate(324,107.24512)"
              style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text14233"><tspan
+             id="text17349"><tspan
                x="0 4.329 11.557"
                y="0"
                sodipodi:role="line"
-               id="tspan14231">-1%</tspan></text>
+               id="tspan17347">-1%</tspan></text>
           <text
-             transform="translate(34,149.24512)"
+             transform="translate(34,128.24512)"
              style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text14237"><tspan
+             id="text17353"><tspan
                x="0 8.658 15.886 23.114 30.341999 33.228001 36.828999 46.215 52.715 59.943001 67.170998 73.670998 77.272003"
                y="0"
                sodipodi:role="line"
-               id="tspan14235">Saadi Dynasty</tspan></text>
+               id="tspan17351">Saadi Dynasty</tspan></text>
           <text
-             transform="translate(201,149.24512)"
+             transform="translate(201,128.24512)"
              style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text14241"><tspan
+             id="text17357"><tspan
                x="0 4.329 11.557"
                y="0"
                sodipodi:role="line"
-               id="tspan14239">-1%</tspan></text>
+               id="tspan17355">-1%</tspan></text>
           <text
-             transform="translate(240,149.24512)"
+             transform="translate(240,128.24512)"
              style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text14245"><tspan
+             id="text17361"><tspan
                x="0 7.579 14.807"
                y="0"
                sodipodi:role="line"
-               id="tspan14243">+1%</tspan></text>
+               id="tspan17359">+1%</tspan></text>
           <text
-             transform="translate(281,149.24512)"
+             transform="translate(281,128.24512)"
              style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text14249"><tspan
+             id="text17365"><tspan
                x="0 7.579 14.807"
                y="0"
                sodipodi:role="line"
-               id="tspan14247">+1%</tspan></text>
+               id="tspan17363">+1%</tspan></text>
           <text
-             transform="translate(324,149.24512)"
+             transform="translate(324,128.24512)"
              style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text14253"><tspan
+             id="text17369"><tspan
                x="0 4.329 11.557"
                y="0"
                sodipodi:role="line"
-               id="tspan14251">-1%</tspan></text>
+               id="tspan17367">-1%</tspan></text>
           <text
-             transform="translate(34,170.24512)"
+             transform="translate(34,149.24512)"
              style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text14257"><tspan
+             id="text17373"><tspan
                x="0 8.658 15.886 19.487 26.715 33.215 36.101002 43.328999 46.93 55.588001 59.188999 66.417 70.017998"
                y="0"
                sodipodi:role="line"
-               id="tspan14255">Safavid State</tspan></text>
+               id="tspan17371">Safavid State</tspan></text>
           <text
-             transform="translate(201,170.24512)"
+             transform="translate(201,149.24512)"
              style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text14261"><tspan
+             id="text17377"><tspan
                x="0 4.329 11.557"
                y="0"
                sodipodi:role="line"
-               id="tspan14259">-6%</tspan></text>
+               id="tspan17375">-6%</tspan></text>
           <text
-             transform="translate(240,170.24512)"
+             transform="translate(240,149.24512)"
              style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text14265"><tspan
+             id="text17381"><tspan
                x="0 7.579 14.807"
                y="0"
                sodipodi:role="line"
-               id="tspan14263">+5%</tspan></text>
+               id="tspan17379">+5%</tspan></text>
           <text
-             transform="translate(283,170.24512)"
+             transform="translate(283,149.24512)"
              style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text14269"><tspan
+             id="text17385"><tspan
                x="0 4.329 11.557"
                y="0"
                sodipodi:role="line"
-               id="tspan14267">-4%</tspan></text>
+               id="tspan17383">-4%</tspan></text>
           <text
-             transform="translate(322,170.24512)"
+             transform="translate(322,149.24512)"
              style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text14273"><tspan
+             id="text17389"><tspan
                x="0 7.579 14.807"
                y="0"
                sodipodi:role="line"
-               id="tspan14271">+5%</tspan></text>
+               id="tspan17387">+5%</tspan></text>
           <text
-             transform="translate(34,191.24512)"
+             transform="translate(34,170.24512)"
              style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text14277"><tspan
+             id="text17393"><tspan
                x="0 7.9299998 10.816 21.645 28.872999 36.101002 43.328999 52.715"
                y="0"
                sodipodi:role="line"
-               id="tspan14275">Zimbabwe</tspan></text>
+               id="tspan17391">Zimbabwe</tspan></text>
           <text
-             transform="translate(201,191.24512)"
+             transform="translate(201,170.24512)"
              style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text14281"><tspan
+             id="text17397"><tspan
                x="0 4.329 11.557"
                y="0"
                sodipodi:role="line"
-               id="tspan14279">-1%</tspan></text>
+               id="tspan17395">-1%</tspan></text>
           <text
-             transform="translate(240,191.24512)"
+             transform="translate(240,170.24512)"
              style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text14285"><tspan
+             id="text17401"><tspan
                x="0 7.579 14.807"
                y="0"
                sodipodi:role="line"
-               id="tspan14283">+0%</tspan></text>
+               id="tspan17399">+0%</tspan></text>
           <text
-             transform="translate(283,191.24512)"
+             transform="translate(283,170.24512)"
              style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text14289"><tspan
+             id="text17405"><tspan
                x="0 4.329 11.557"
                y="0"
                sodipodi:role="line"
-               id="tspan14287">-4%</tspan></text>
+               id="tspan17403">-4%</tspan></text>
           <text
-             transform="translate(322,191.24512)"
+             transform="translate(322,170.24512)"
              style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text14293"><tspan
+             id="text17409"><tspan
                x="0 7.579 14.807"
                y="0"
                sodipodi:role="line"
-               id="tspan14291">+5%</tspan></text>
+               id="tspan17407">+5%</tspan></text>
         </g>
       </g>
       <g
-         id="g14295">
+         id="g17411">
         <g
-           id="g14297"
+           id="g17413"
            transform="matrix(0.75,0,0,0.75,164,54)">
           <g
-             id="g14299"
-             clip-path="url(#clipPath14303)">
+             id="g17415"
+             clip-path="url(#clipPath17419)">
             <g
-               id="g14305"
-               clip-path="url(#clipPath14309)">
+               id="g17421"
+               clip-path="url(#clipPath17425)">
               <g
-                 id="g14311"
+                 id="g17427"
                  transform="matrix(39.789474,0,0,-28,193.10527,28)">
                 <image
                    width="1"
@@ -7410,35 +7585,35 @@
                    preserveAspectRatio="none"
                    transform="matrix(1,0,0,-1,0,1)"
                    xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAATCAYAAABhh3Y4AAAABHNCSVQICAgIfAhkiAAAAE9JREFUSIljXHjr6X8GOgEmelk0atmoZQQBC7kaZc+Vw9mPjTqJ0sNIaj5DtgQbwGYxTA/RlhGyhBiANxipYQEyYPz7oHq0uBq1bNQy2gIA4xQXweqoKlQAAAAASUVORK5CYII="
-                   id="image14313" />
+                   id="image17429" />
               </g>
             </g>
           </g>
         </g>
       </g>
       <g
-         id="g14315">
+         id="g17431">
         <g
-           id="g14317"
+           id="g17433"
            transform="matrix(0.75,0,0,0.75,164,54)">
           <g
-             id="g14319"
-             clip-path="url(#clipPath14323)" />
+             id="g17435"
+             clip-path="url(#clipPath17439)" />
         </g>
       </g>
       <g
-         id="g14325">
+         id="g17441">
         <g
-           id="g14327"
+           id="g17443"
            transform="matrix(0.75,0,0,0.75,164,54)">
           <g
-             id="g14329"
-             clip-path="url(#clipPath14333)">
+             id="g17445"
+             clip-path="url(#clipPath17449)">
             <g
-               id="g14335"
-               clip-path="url(#clipPath14339)">
+               id="g17451"
+               clip-path="url(#clipPath17455)">
               <g
-                 id="g14341"
+                 id="g17457"
                  transform="matrix(39.789474,0,0,-28,234.10527,28)">
                 <image
                    width="1"
@@ -7446,35 +7621,35 @@
                    preserveAspectRatio="none"
                    transform="matrix(1,0,0,-1,0,1)"
                    xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAATCAYAAABhh3Y4AAAABHNCSVQICAgIfAhkiAAAASpJREFUSIljXHjr6X8GHKC4R5+BgYGBQcpYCiHmuB0u11tyEZdWDDN6Sy4yMBFUjccAUtUxoQv07vck2kC4q6F68FlU3KNP2GfIQYjLYGIBimUwg0gxkBQ9ZMUZuYCJgYGBYX+bNNxlrichErDge3b2GYo4jI+sBiaHzXeuzwRQLSMHIBtCLIBbZnT8EooEjO/6TACRtxy3M/SWXGTw+fUGqx6YOlyAMSGBASVTCzPpMbz9hzDk5xsVBnaROzjF0fU4Vj1lYGCARM0WNhEG12cCDLulPjD4/HrDwELQ7ySC/W3ScLbPrzcMPxkE4CHBoqCAqvjzIwYGZLGbbyB8XOLY9CADZHUYCYRXDjUe1E3uYDUEWRxdDy5AdGok1kB0gOwo+mfqUcuGlGUA2tZzBSGUKTwAAAAASUVORK5CYII="
-                   id="image14343" />
+                   id="image17459" />
               </g>
             </g>
           </g>
         </g>
       </g>
       <g
-         id="g14345">
+         id="g17461">
         <g
-           id="g14347"
+           id="g17463"
            transform="matrix(0.75,0,0,0.75,164,54)">
           <g
-             id="g14349"
-             clip-path="url(#clipPath14353)" />
+             id="g17465"
+             clip-path="url(#clipPath17469)" />
         </g>
       </g>
       <g
-         id="g14355">
+         id="g17471">
         <g
-           id="g14357"
+           id="g17473"
            transform="matrix(0.75,0,0,0.75,164,54)">
           <g
-             id="g14359"
-             clip-path="url(#clipPath14363)">
+             id="g17475"
+             clip-path="url(#clipPath17479)">
             <g
-               id="g14365"
-               clip-path="url(#clipPath14369)">
+               id="g17481"
+               clip-path="url(#clipPath17485)">
               <g
-                 id="g14371"
+                 id="g17487"
                  transform="matrix(39.789474,0,0,-28,275.10526,28)">
                 <image
                    width="1"
@@ -7482,35 +7657,35 @@
                    preserveAspectRatio="none"
                    transform="matrix(1,0,0,-1,0,1)"
                    xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAATCAYAAABhh3Y4AAAABHNCSVQICAgIfAhkiAAAAHlJREFUSIljXHjr6X8GOgEmZM6OySW0t2zH5BK4RbSwEGYmEzbDSbGQWLU7JpegBiOpgBiLkNXgtIyQQcjyuNSii+P1Ga4gJjfoCQYjuYkHm1rGyNxIquYzj9wenI6iumX4AEWpkVTAoqWqRTfL6OqzUctGLRs8lgEAUxczY4b9WX0AAAAASUVORK5CYII="
-                   id="image14373" />
+                   id="image17489" />
               </g>
             </g>
           </g>
         </g>
       </g>
       <g
-         id="g14375">
+         id="g17491">
         <g
-           id="g14377"
+           id="g17493"
            transform="matrix(0.75,0,0,0.75,164,54)">
           <g
-             id="g14379"
-             clip-path="url(#clipPath14383)" />
+             id="g17495"
+             clip-path="url(#clipPath17499)" />
         </g>
       </g>
       <g
-         id="g14385">
+         id="g17501">
         <g
-           id="g14387"
+           id="g17503"
            transform="matrix(0.75,0,0,0.75,164,54)">
           <g
-             id="g14389"
-             clip-path="url(#clipPath14393)">
+             id="g17505"
+             clip-path="url(#clipPath17509)">
             <g
-               id="g14395"
-               clip-path="url(#clipPath14399)">
+               id="g17511"
+               clip-path="url(#clipPath17515)">
               <g
-                 id="g14401"
+                 id="g17517"
                  transform="matrix(39.789474,0,0,-28,316.10526,28)">
                 <image
                    width="1"
@@ -7518,35 +7693,35 @@
                    preserveAspectRatio="none"
                    transform="matrix(1,0,0,-1,0,1)"
                    xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAATCAYAAABhh3Y4AAAABHNCSVQICAgIfAhkiAAAAV9JREFUSIntk8tKAgEUhr/RaczIVZmCdhOpJLFVtIgIgvY9y+x7j96iVRS0KGqRbdIu2JShFl0Ug8wmc8ZRW3XDNDXGlf/2nO98HDhHkDfuqnQolk6JurKuzFyZUVYxyioAJeOZiCLX9EQUGaOsElFkhP/82Wl8FaP8CsBTPvqj1t/nRy1cAdBrc1PU0og+exjRUqk7sKj3ksk58Qw8IFpLgEAml2QztkFRS9flPkTAZ59QVWi4WRWBRHoc5TZAQbMz5VUIDMe4fulpvPYv+VP2PY/5QQ4v57jJelkK7TLpuTBP9pHjVIjt6DKLwR1m/UdNc21d48zYCZKoc6DMt8S1JXt4cqMbEqLVMF+2H1sAIOA9N1eWfXZykx0BIP/moFJtfoTYqsxuKyCJGrphI34/wdqWB58ric+dYGwohSSW6rJtXePLm4P18AqZnAtB+MItQoXg6BmL03vYerQa7h3E9YnnycfvvwAAAABJRU5ErkJggg=="
-                   id="image14403" />
+                   id="image17519" />
               </g>
             </g>
           </g>
         </g>
       </g>
       <g
-         id="g14405">
+         id="g17521">
         <g
-           id="g14407"
+           id="g17523"
            transform="matrix(0.75,0,0,0.75,164,54)">
           <g
-             id="g14409"
-             clip-path="url(#clipPath14413)" />
+             id="g17525"
+             clip-path="url(#clipPath17529)" />
         </g>
       </g>
       <g
-         id="g14415">
+         id="g17531">
         <g
-           id="g14417"
+           id="g17533"
            transform="matrix(0.75,0,0,0.75,164,54)">
           <g
-             id="g14419"
-             clip-path="url(#clipPath14423)">
+             id="g17535"
+             clip-path="url(#clipPath17539)">
             <g
-               id="g14425"
-               clip-path="url(#clipPath14429)">
+               id="g17541"
+               clip-path="url(#clipPath17545)">
               <g
-                 id="g14431"
+                 id="g17547"
                  transform="matrix(30,0,0,-20,0,49)">
                 <image
                    width="1"
@@ -7554,35 +7729,35 @@
                    preserveAspectRatio="none"
                    transform="matrix(1,0,0,-1,0,1)"
                    xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAeCAYAAAC49JeZAAAABHNCSVQICAgIfAhkiAAAApNJREFUWIXtl09IFHEUxz8zu+uuupm79ofENU0jpcMadAox6WBYhw6S/TlEEAhBZpcuQaEFRXiQgi4dEpSIykCU/lldSkqrQ0ZUkqJif1a0P666u+7u7OswoVhBtDOrCH7hHea9mff98p33e8MoL5O9wiKDutAC4sGS6PnCkuj5gjVRjT3137DYY9gzQvSdyEQbMs+fhDkdGLbjWBUkdc13nNvCWAtjpvVWErGnLdkxYn4V8cOKmimydgyBCH2X1zPZkmS4f0KcdlUGcZZPQwzGGlIZvJGLatPQ/Iop/U112lqg4TnyFWfOOBK1MNGfxnC9m5hPJefSKEnLw/g6MvA3OQzxmOp09L0FX6uLpLQANmeAT426YICR9nSWZY+xonjcMI/p4+HIjTB8Zx0jXVnY86Iz+eA9G5EJB742t2EO01ae6hEIwY+rKUhAzym/TUF0Ohl3ySSBuy7QDHDF/+hcuCoCrK72zwgGkNDceyy2aTK8PjBh+4kZcbsB0bqR5jpEUf6sV5QiwU5kc4FxLtOcvt4BgRDsKoWb58CbP7deVaHX3Wnm8JniNCD7y5DeFiT8DHl6BdlXpuePViJTTxDffaTEawqXsQYHypG8zNlrRUEaTyKTj5H+VqSuChl9gNw6j6h/GZt4wgLUxv2OgOYzUL0XCteCpkE4Aq8/wFQQijZAcRG86oV3A9DRbYRpFgq/7I4X1bvhwnH4MgYrXRCJgtUCNit8HoWWh7BnO7zph4vXoL3TuGjDTj9/CwMf4eBp2Jiri91Zowvv6YVjDdDVA+VbdNfzPfDohXHhph3Ef8WpQ8hgG9JUi6SnLOBB/N/YukkXfvZw/D0Mz3Q8sKoQNfBVXBDRRrEof2yXRM8XFqXon8UEolowcdvQAAAAAElFTkSuQmCC"
-                   id="image14433" />
+                   id="image17549" />
               </g>
             </g>
           </g>
         </g>
       </g>
       <g
-         id="g14435">
+         id="g17551">
         <g
-           id="g14437"
+           id="g17553"
            transform="matrix(0.75,0,0,0.75,164,54)">
           <g
-             id="g14439"
-             clip-path="url(#clipPath14443)" />
+             id="g17555"
+             clip-path="url(#clipPath17559)" />
         </g>
       </g>
       <g
-         id="g14445">
+         id="g17561">
         <g
-           id="g14447"
+           id="g17563"
            transform="matrix(0.75,0,0,0.75,164,54)">
           <g
-             id="g14449"
-             clip-path="url(#clipPath14453)">
+             id="g17565"
+             clip-path="url(#clipPath17569)">
             <g
-               id="g14455"
-               clip-path="url(#clipPath14459)">
+               id="g17571"
+               clip-path="url(#clipPath17575)">
               <g
-                 id="g14461"
+                 id="g17577"
                  transform="matrix(30,0,0,-20,0,70)">
                 <image
                    width="1"
@@ -7590,35 +7765,35 @@
                    preserveAspectRatio="none"
                    transform="matrix(1,0,0,-1,0,1)"
                    xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAeCAYAAAC49JeZAAAABHNCSVQICAgIfAhkiAAAAtlJREFUWIXtl81rVFcYh59z59y5mZmMd6ZEXSRRY9SYcdA0tiJZFLEFsYh20ZV/gBQKgtJK/4cuKkIX3RRXLkQlVVCkVWkXflBbUEnMaP1IxkRnMjHzkdybzJx7TxcuSjZd5IQJwjzLA+/7Pue3OPe+gt4fNctBa/Szr5dVCvA2M7TsWmvZlatIS7pZtKSbRUu6WbSk/48wDFeslzRtoLVmZGQCFQQM7NqMDkJUPo8/O0ssnUZ2dSFkhNq9PxFS0r77QyzLLCvjpH+78Yifz96hf3sX9bEctdNnCCan8DQE+VfUfjhDffQxsWyG0vlhKr/eNB1plvTMTJWLl0Y5cngbYnycxsgoyRPHCcKQmdwEHTuzRIf24g9fxhaC+J5BSt//RGLPR0bSRkkXimU8r8GOTDeLN25hH/qceqNBtVrlytUHVCoVGkohDx5g4dIvuHs/Jp6M4xWKRtJGSRfelEkkIrjKQ/ZtI9Savx++YcH3uXO/xtBQiYicYyDbgRwcQM3NEfR2E0xOIgzmGiWtidDebhO1I1iui2VZbO1J8OxFmct/zfFoZJotm9qwbRsrnSLa1gZK4TiOyVgzacvStCckr6oK9fQfpJTknkzz4vlrvj3aQ36iwFiuiJQSNTpGvVqD9etoKLV60plMF9VawO93JyCdYna6RGdnilMn9/PZvh6+++ZTNnR/QHHqNdpdw/wft3EKRWI7s6snvbbDpXdzismpt+Q39uPcvEWnV8F1XQZ3rcN1XTrnyySuXUdkdxCUZgj6tuCk00bSwnTdKlfmOXfuLv5Cna+OfYJ8OY4ay4HWoMHu76PRs4nKhWFsIPXlF9iJhNG6ZSwNsLi4iO/7hGGIEAIp/3uUlFJordFak0wmiUajgNmOaPwZB3AcB8uy8H0fId49ZslkEs/zEEKgtSYWiy25jAkr0wWwbRvbtpecxePxlWq/hNavabNoSTeLlnSzeC+l/wXyURRbDTub+wAAAABJRU5ErkJggg=="
-                   id="image14463" />
+                   id="image17579" />
               </g>
             </g>
           </g>
         </g>
       </g>
       <g
-         id="g14465">
+         id="g17581">
         <g
-           id="g14467"
+           id="g17583"
            transform="matrix(0.75,0,0,0.75,164,54)">
           <g
-             id="g14469"
-             clip-path="url(#clipPath14473)" />
+             id="g17585"
+             clip-path="url(#clipPath17589)" />
         </g>
       </g>
       <g
-         id="g14475">
+         id="g17591">
         <g
-           id="g14477"
+           id="g17593"
            transform="matrix(0.75,0,0,0.75,164,54)">
           <g
-             id="g14479"
-             clip-path="url(#clipPath14483)">
+             id="g17595"
+             clip-path="url(#clipPath17599)">
             <g
-               id="g14485"
-               clip-path="url(#clipPath14489)">
+               id="g17601"
+               clip-path="url(#clipPath17605)">
               <g
-                 id="g14491"
+                 id="g17607"
                  transform="matrix(30,0,0,-20,0,91)">
                 <image
                    width="1"
@@ -7626,187 +7801,151 @@
                    preserveAspectRatio="none"
                    transform="matrix(1,0,0,-1,0,1)"
                    xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAeCAYAAAC49JeZAAAABHNCSVQICAgIfAhkiAAAAJ5JREFUWIXt1UERAyAMRNFlJVARCOCGEmzUBwbqBBMYQAMXDIReqqAT0ulMnoDkwwHCeeHgz/DXAd/waCsebcWjrXi0lXDO8R/Rgno0ef8e1DfknEESJFFKuXII9YljDABAaw0pJYiI9gr9aBGBiKD3jlor9t7aK+69HiSx1kKMUX+2+sSPOeeVYMDfaTvh8fSbNuHRVjzaikdb8Wgrb05DK9mtlTc/AAAAAElFTkSuQmCC"
-                   id="image14493" />
+                   id="image17609" />
               </g>
             </g>
           </g>
         </g>
       </g>
       <g
-         id="g14495">
+         id="g17611">
         <g
-           id="g14497"
+           id="g17613"
            transform="matrix(0.75,0,0,0.75,164,54)">
           <g
-             id="g14499"
-             clip-path="url(#clipPath14503)" />
+             id="g17615"
+             clip-path="url(#clipPath17619)" />
         </g>
       </g>
       <g
-         id="g14505">
+         id="g17621">
         <g
-           id="g14507"
+           id="g17623"
            transform="matrix(0.75,0,0,0.75,164,54)">
           <g
-             id="g14509"
-             clip-path="url(#clipPath14513)">
+             id="g17625"
+             clip-path="url(#clipPath17629)">
             <g
-               id="g14515"
-               clip-path="url(#clipPath14519)">
+               id="g17631"
+               clip-path="url(#clipPath17635)">
               <g
-                 id="g14521"
-                 transform="matrix(30,0,0,-20,0,112)">
-                <image
-                   width="1"
-                   height="1"
-                   preserveAspectRatio="none"
-                   transform="matrix(1,0,0,-1,0,1)"
-                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAeCAYAAAC49JeZAAAABHNCSVQICAgIfAhkiAAABYtJREFUWIXVmF1oHNcZhp9z5m93dldarySvfiIrqRypKZUsUtWRHWjrRiQUE2hDDW0hKe1FURNIoYXWVJQGUtG64NLmIgXflP5QFwoKSVwwies0pqKWbJLowrFrVU7WQrbW1lY/O7s7s7NzTi8WHAq98G7WKf7gMBfzne995uOdM3OOeCc9rLnLQv6/AZoJs9UFjd0GIiOJP5SkdGIL9Z5qtURroY1hg86pbqRpEu76GokH/sDa0yutlABabI/onxHb57YQMU06/TruoIvsbb0DP1RF56BLamoHovuDMpU/eqhQgyohbYk56ty6J7olqakdOAfdDyPbvD2shx36nu1H2pL0gQzXj6xQe6uK6BbE7ondynPuj1E9WcF80KbnB/04O21UoFjZfJ9wLmhK25iKdT7XzMQdU12499Y7ZiYMEntTBH5A8vMp7KyDdCQqUCAFkRXR8+w92J02AMIU6BhUTntNQYtm1mnhCvp/+zGq6yG6orD7HJyddSAdaiI/opoP0FWN1WXXYQUEN6pUVwNEXGJ3Wqx8/Qq63PhnQmJKGh32hIuf8wlyPsnRJNtnNqlc9QEIJbxV8HmtVOWCC2QsEFDJ+Wyf2SQ5miTI+fg5H/sht2FtTInQWjf8qCooULn0bazOrxKVl0CYyFgfXrnI4ePH+H2+ypHJpzl86kWe7Lb56Ve+RdJNofxroEMMdzfh+p+If/zXSKejiU43EaqUQzrDqOpNjMQwqjSPDjd5de44QWIvgarxyuIpfFUjcPfy6txxdLiBKs3X86sFpDOEKuWakW8OOvIuIRMjKO8cIBFWH7q2wZoaY6R3iKOTz3A6/y5HJ59hpHeYNTWGrm0hrB5AorwFZGKUyLv0EUHriKg4jzAcEBIdeRjuJ1Hl8+jaOp8de5jTF+cA+OvFOT4zth9dW0eVz2G4I+jIAyERhkNUXAAdNYzQ8Dqt/JugttAqRCYniIrnMZJ7QEfsy15jy9vmhW/+hO9du8pA7y6WV99jX/Ya6CRIi6h4HpmcQKsQ1CbKv4mMdzfE0HCnI28JmRhHlS4grXaINkCFIGKMDyTxlmd4+cxLbJeLvHxmltKVGcYHkiBi9bxoA2m11+e740TeUqMIja8elX8dxYjfR1h4CTP9BYTdhdWxF+XfwF/+PgB+qCgGESnHIGbV+xIb/DkytpOwMI+urlPbPInV8UVU5X1iu7/bEHRDndZhEVV+G62qmOnHMNpHsbOPIKw2Im8ZhIWZOUTcHaAraRF3BzAzh0BYRN4ywmrDzk5itI1gph9FqypR+W10WGwIuiFPR8UljMSnkU4Ws2N//WVUVZT/b1AeVteT2L2PU833EF5/AbPzS9jZAwgzBcpDVfJIJ4OZHsFI3U+t8A+MxDhRcQkz8+Adgq7ksPufQto7AMjn8yxfXmRXe56MdZH40I8AkHYbZubLSLsNACs7SeXy89woVLi6mWVweA/ZbBZr5wGM9Bjhzb9hcvvQwnGc2/a0FAql646amJhgenqaZDKJ53mcmp3hV785C8DvfraHvmyC1XyJpw4vAvCdb+xj8okf3sqfmZnh7Nl6viEUkb59p5pB0NzvYa1W+6/r6/NbBEHAo/szPLIvi21J7u2LM9gH714JODW/xeQTH+SHYUiz2gbwXDMTV1ZWaG9vx/M85ubmOHHiLwAce/5TdKQdYo6BX1UM7krx55OrXF9bw3VdKpUK8/PzzM7ONgUMIICWHSG8+OM9fGKwnXyhwsHP9XH8RI4HBtt4cyHP9C+b+2T/r2jZBm5owOG1v19n6L4UMccgijT9PS7ZzhgLiwXSqdbtFVtW6XIuoFQJeeNsniPHLrCaLzP9i3dYvLTBGwsFNoutPUrQd2Iceix7R+oCuqWe/qjirjwWuyuh/wPWoG4yU7YVSAAAAABJRU5ErkJggg=="
-                   id="image14523" />
-              </g>
-            </g>
-          </g>
-        </g>
-      </g>
-      <g
-         id="g14525">
-        <g
-           id="g14527"
-           transform="matrix(0.75,0,0,0.75,164,54)">
-          <g
-             id="g14529"
-             clip-path="url(#clipPath14533)" />
-        </g>
-      </g>
-      <g
-         id="g14535">
-        <g
-           id="g14537"
-           transform="matrix(0.75,0,0,0.75,164,54)">
-          <g
-             id="g14539"
-             clip-path="url(#clipPath14543)">
-            <g
-               id="g14545"
-               clip-path="url(#clipPath14549)">
-              <g
-                 id="g14551"
-                 transform="matrix(29.333334,0,0,-20,0,133)">
+                 id="g17637"
+                 transform="matrix(29.333334,0,0,-20,0,112)">
                 <image
                    width="1"
                    height="1"
                    preserveAspectRatio="none"
                    transform="matrix(1,0,0,-1,0,1)"
                    xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAeCAYAAABXNvynAAAABHNCSVQICAgIfAhkiAAAAiZJREFUWIXtmLFrGlEcx7/v6tLSFAtZimQwWYOJoSR/QuKYotChcQvxbm4xge4xdK4W13YIxcnFbk5FLbEqNuAUqFa6BKpetIuXX6Y7rndHzL3nNQn4AQe5997v4/d5dz8eiylZyhVqEOHyLA0AqDxdcby+8acBAJAWFaE60UgY0uf3uzjJHyAaCQst5iXRSBgn+QMcv3sFCQDWlhdwF8XNokvnXbReJOAzD9DFv//oIJX5AtG/iojovryF1cV5qN8aaL1+C7VSBwBIv1IZaIOLfybcVuJOiba296BW6ggkE3j+8ytY2R8iAAgkE3im7ODBk8e2hSYlLnrTWRPtpjJGolYv1iuW6LoBNxHnFXYjqsOqzTa5meAk7laYR1SvCxaUKaZkqdpskzYcUa9YotPNOJX9ISr7Q9Q5TNO4r5IT1WabYkrW+K7PsX50ROuwoEyMBWUS2SIzkxK+HP0V2kkAYEREtpGcTBKeBtLUVvpPGI+1+8K9S3gm7DUzYa+ZPYe9xmfuoPRX89rygm2gNrjA7/RHdI8+AADmNlYR2Jcxt74C6dFDboHr1q2fndu7Q3Pz48S4r1LnMG00KaebceoVS6QNR9zND28dFpSJVZttcpuo9Zfztpc8dW03nest4hDW4RE3hHlERYV5xNm4rxKv6LSE3Ygb3RqP6LSFbyLus4m++XRr5xE6uUINuULNUZxpwxG5TdSK12drZnHfyzuQ6CTMiV8Bt8XZzog0m+wAAAAASUVORK5CYII="
-                   id="image14553" />
+                   id="image17639" />
               </g>
             </g>
           </g>
         </g>
       </g>
       <g
-         id="g14555">
+         id="g17641">
         <g
-           id="g14557"
+           id="g17643"
            transform="matrix(0.75,0,0,0.75,164,54)">
           <g
-             id="g14559"
-             clip-path="url(#clipPath14563)" />
+             id="g17645"
+             clip-path="url(#clipPath17649)" />
         </g>
       </g>
       <g
-         id="g14565">
+         id="g17651">
         <g
-           id="g14567"
+           id="g17653"
            transform="matrix(0.75,0,0,0.75,164,54)">
           <g
-             id="g14569"
-             clip-path="url(#clipPath14573)">
+             id="g17655"
+             clip-path="url(#clipPath17659)">
             <g
-               id="g14575"
-               clip-path="url(#clipPath14579)">
+               id="g17661"
+               clip-path="url(#clipPath17665)">
               <g
-                 id="g14581"
-                 transform="matrix(30,0,0,-20,0,154)">
+                 id="g17667"
+                 transform="matrix(30,0,0,-20,0,133)">
                 <image
                    width="1"
                    height="1"
                    preserveAspectRatio="none"
                    transform="matrix(1,0,0,-1,0,1)"
                    xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAeCAYAAAC49JeZAAAABHNCSVQICAgIfAhkiAAAAjxJREFUWIXtl0trE2EUhp+55jLpGCmKJAEToa0ErP4EN3UTlyU7FxXd+JcU3YvbrrrRf9AqRBuqqRCrBGJuE2aSycy4iNSKponON00DfdbfzHk4nHm/M9KbtVsBC4Y8b4H/QQW4Whpybb2P50rz9pmIogV8e2vQ2NbH0prh0/yY4MvL+LzdJpItO2iGDyzoeFxInxWRSWc2HWQjmjSNRLrwsI+i+aw+6qGY4sVVES8x7ngo8bHccnGArAZ0ajGGfYXikw6fX6cA8GyJ/p4Sup6QTuc3LFLZETc2ugQB2E2VVHaEogU0D+Ks3G9jFlzy9ywR5cR02h3IyFpA432So1d/Zn3rnU6+ZOGNxFxeQjqdTLv4vvRXYQB7X6a2nSKRdlEuh5/x0NLZskMQwNGU29TZlxlaKqtbvdDioaSzZQcAu6PNdN51xh2/+bgbpmw46XR+QHNP/6dnlm8PaR/GwpQNJ/3hqUmhZKHF/ZnOJ9IuQOjFLJS015KovlgiZoyIr50unvk5SiI2ydAfoteSsDsahZJFYoJ4ZtNBlgPs9myzPw0hOS0rAZ26TvHBd77upuBEOOimRzo3oFFJzjxG0xAifbiTQokHdGtprt+1aFQS2A2FK+sO/kji044JQOfgHHW6v/trn6hULrGy1UM3VPyRRO25IaLEbwjf8ryuRPXZEp4rRyIMEa2mfn/ylS6Ciz+Xs2IhpY/Tw8wNoTxPldMxc0O69fGeowK0q2LyM0q6df3YU4Vxzp7M2vPOD1BLvyEgXX6cAAAAAElFTkSuQmCC"
-                   id="image14583" />
+                   id="image17669" />
               </g>
             </g>
           </g>
         </g>
       </g>
       <g
-         id="g14585">
+         id="g17671">
         <g
-           id="g14587"
+           id="g17673"
            transform="matrix(0.75,0,0,0.75,164,54)">
           <g
-             id="g14589"
-             clip-path="url(#clipPath14593)" />
+             id="g17675"
+             clip-path="url(#clipPath17679)" />
         </g>
       </g>
       <g
-         id="g14595">
+         id="g17681">
         <g
-           id="g14597"
+           id="g17683"
            transform="matrix(0.75,0,0,0.75,164,54)">
           <g
-             id="g14599"
-             clip-path="url(#clipPath14603)">
+             id="g17685"
+             clip-path="url(#clipPath17689)">
             <g
-               id="g14605"
-               clip-path="url(#clipPath14609)">
+               id="g17691"
+               clip-path="url(#clipPath17695)">
               <g
-                 id="g14611"
-                 transform="matrix(30,0,0,-20,0,175)">
+                 id="g17697"
+                 transform="matrix(30,0,0,-20,0,154)">
                 <image
                    width="1"
                    height="1"
                    preserveAspectRatio="none"
                    transform="matrix(1,0,0,-1,0,1)"
                    xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAeCAYAAAC49JeZAAAABHNCSVQICAgIfAhkiAAABaJJREFUWIXtmEuMHEcdxn/V7+l57szO7myMd43j10JCLJGgWIoQCo7ggmJBELKicEEiAgRCyoWAFPkGh1zIJeJhI4QUISEBPvC4RQgB2hxskA15bmyv1t71zvTMzrOnH1XFYSw7m9gwM5vwkPKdpkb1r+/Xn7rrX92CU2j+z2T8twGm0fvQ71DnvVn23YNuvW2s4dHA3vFXtg10d2/1rkE/GXoQ3xov9AQnDxVujp9Kfb489CG/e6/dQfdv/Zyftfi+U7w5/mIxw4J/I+kEPlXMs1KIdtZvT2e7K+hjmyYnmiOw3zPgnrzHaWcGYjiQcSnmTOiBGYHvCP6ckQA8GBv8hDJHxXT2u4L+y6LkSwslztgzvITiu0GDwwWXn+cr5G0DAZx0HJ7OZpFqVPMdspw5tMBqHPHXorq1WDi+r8knODUN8FIoaANzoeaRWp7HnAy/3R5QQHDQ86hYJghBRRl8tOjTiFI+43ocn8+zXk9AC0pScV9o8r1yhScKWc63B9Stf+8tJu6IQ3gy9tjvOhzyXe7b79Fop2w2Uwq+iePD0aXMzpJYc/HSkLsqNmtbMd8K6iDgVGGW85shMtE0ypLnjPHiHuO63iYPKhmT4/M59tVsMq5BrWxRK0vq2ynLS+47SxzB/YczvLIWkWrNS6HibK1KW0tyFQPHEDwT9sZGmBwaQEO1ZPLmtZiMZ3BlI+bwksfcjMW514bMzZhkHINK0eTyRoxhCISAatFiLUhYObBAMJCcbAXg3FjTHN9+qgfxgOUQJZrlfR6uLTi410WgyWcMzr0+YG0r4VqQ0B0o+kPNyssDGu2UVGlytsE/NiIa/ZSf5svsicXE/pMnHYKyQCm4vBmzejWmVrZIpWYmb1GbsZktmLi2IIwUtYpFq2eR9QwqBZPB0OLuPQ5pqlnbSjhTqfL8aouzmQQ9ZuOZOOmvCI9jd/vYliCMNHvnbKSC/Xe5tPuSI0sutbKFBmZLFv2h4qF7sxza62KZAq1BKc31YUpgpdTjlM8t5tECxt0SJk76Z2LIsfWQowsZSlkD1zFodiRSarSGTl8SJZqr9YQrmwnzZYvNZgqAEBBJzS8vtXlm2AMbnndKxEJDbnyGsba8E7HFU/tmGUrFH+p9Hq0VsBEMIo3vCpQGrSFJNa2uZLZkUs5bLFRun0mnL1m9FqM1NJCc2KqDfdupt9VYSde7GtWHatbi2w/M8eL5PstLLgsVgyhRRInGEIJOX1ItWTi2uC1wL1TkMgaFrEmlZHHk1fUR7ATAMOY9vdc3cG1BKiGVmofu9dkIEi5txFytpwRtSaOdkssYmAZkPYNGW7LVStHAepDw61c6NLrpzTUXqzYPDCbY596isdr4RVvx43aPtWbI05dbHIksSrZJtWRRzBnk/dG1bwQS04CZgkkYKVpdxbnXhnRTxWc7Dea7mho2M/kRbNCKeVHH/8p6eugbM3nDVvQd+MVwwCOWS6ep0HqUvuca+K5B0JG8vhVzIRiSUYIHl332lG3u6Zh8I2zzcOSSxjBbtPhwyWPjWsgFQ04EPfXZ8AvdgD/1+ixUbEAQK83p1Saf7F7n80mDr7HNb8Iu9V7KG+sxxz+Ygwge6zVYCQZsBAmlrMkTtdI09lNKwuNHSniuwDDgR6tNnrUG8JYG9xwhm/2UD1RtrlxPRq3aga+2tgkjTZRozq9PcCa9ocn2aQk/yJeoeTaWACHh71eH/PDNFi8U4h3zTjk5ctYok85AsnJ9wMeFyePZPFd0gmUJekPFH9V7DP2sV+BjJZ/FOYfOQLI9lHx9s86Fgtox71fVWZYLHovzNlrD5UbMN8M2Fz+0h2px1NINA07/rcnv/PQObnfWZOdpDQcjQaRgzb9z2Udig4dtl61U8kIUgwuY8OnI4v6sy9luyAWlpn7Jnfwl4H9A739h+k/pn9rDRvYQSGmwAAAAAElFTkSuQmCC"
-                   id="image14613" />
+                   id="image17699" />
               </g>
             </g>
           </g>
         </g>
       </g>
       <g
-         id="g14615">
+         id="g17701">
         <g
-           id="g14617"
+           id="g17703"
            transform="matrix(0.75,0,0,0.75,164,54)">
           <g
-             id="g14619"
-             clip-path="url(#clipPath14623)" />
+             id="g17705"
+             clip-path="url(#clipPath17709)" />
         </g>
       </g>
       <g
-         id="g14625">
+         id="g17711">
         <g
-           id="g14627"
+           id="g17713"
            transform="matrix(0.75,0,0,0.75,164,54)">
           <g
-             id="g14629"
-             clip-path="url(#clipPath14633)">
+             id="g17715"
+             clip-path="url(#clipPath17719)">
             <g
-               id="g14635"
-               clip-path="url(#clipPath14639)">
+               id="g17721"
+               clip-path="url(#clipPath17725)">
               <g
-                 id="g14641"
-                 transform="matrix(29.333334,0,0,-20,0,196)">
+                 id="g17727"
+                 transform="matrix(29.333334,0,0,-20,0,175)">
                 <image
                    width="1"
                    height="1"
                    preserveAspectRatio="none"
                    transform="matrix(1,0,0,-1,0,1)"
                    xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAeCAYAAABXNvynAAAABHNCSVQICAgIfAhkiAAAAsJJREFUWIXVmEFIU2EcwH9PXYmmRtlmQVG7GCGN6BBSl4woiYI6RF02JISdBoEQURcHdarL8GIgpCCKgad1sCBKEXYw8ZWBiBK1LF1+5lY63dz+HdTlnNOgfNt+8C7f9773ft97//d//+/ThoaGxHnPiW+vD3aQ9eTZbDa8rV5c5S4IZlpnazQREYBoNEpHRweOdgccyrRWehLCq+i6TjaHSIowgFIK9wM3l457OHYkE1rp2VAYlkOks7MT85ydC6eN1kpPWuFVdF3ndZeTuss+SouN0krPpsKxuTnyi4tRStHscXPjlAfrQSP1UtlU+GtrKwfsdtC0RBbZN+ug2mykYjJphWPhMCNFRRweH6fYak2067rOM6eTKz4fmYiQvI0alf8d8ZG7RIDQwEBSn81m47bXy3OXC78RhuvY8AnH43Fm31j53vIJ5q9S2d2dMnA1RMIOB2cMUV1GExFZnJzkW1MTsVAo0VFw/illpp98aYHCsltoRUUrIzTM9fWUVFUBf0LkrM9HgRHGskIkGJSPjY0yDDIMMvMKme9HlnzI6P3lttG6Opn3+2U909PT4nK5BNj+I+nO8bgEenrkw1Fk6gUS7kcG25HAS2T0yTmJhsMpsokJRyLS1ta27cLJH52mUV5Tw+L1k+Tnw0QALHtABCwXmykoLPw/r/UfSMkSv8bGiC2+ZSKwPKVIFAIjsDg8mvYiSikaGhqw2+3b6QqQ+p0E+/oomYF4AUwp2F8OCwGYHexiX21tygXW5uVr2667TlhiMcK9vZjvvGdXZSUmkwkQdp/4zI9Hj1mYnKSwogJITms3DRBdJSkPL4VCCGAqLU05MR6NEp2ZYafFglIKj9tNtceD0aXFltXaejL9a/5r4awvftaSM+Ul5FABn1NLpJxahGb7Mj/x48ipjRSlFO6Hbjx+D5RlWmlztFzbDPwNGjcD1zc+hqEAAAAASUVORK5CYII="
-                   id="image14643" />
+                   id="image17729" />
               </g>
             </g>
           </g>
